@@ -8,7 +8,7 @@
 <p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <b><span style="color:purple;">{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <b><span style="color:orange;">javascript</b>.</p>  
 
   
-Follow me:
+# Follow me:
 <div>
    
      
