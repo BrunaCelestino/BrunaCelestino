@@ -1,13 +1,14 @@
+# Olá!
+
+<p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <b><span style="color:purple;">{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <b><span style="color:orange;">javascript</b>.</p>  
+
+
 # Hey there!
-
-<p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <span style="color:purple;">{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <span style="color:orange;">javascript</b>.</p>  
-
-<div
      
-<p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <span style="color:purple;">{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <span style="color:orange;">javascript</b>.</p>  
+<p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <b><span style="color:purple;">{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <b><span style="color:orange;">javascript</b>.</p>  
 
-<div
      
+<div>
      
   <a href="https://github.com/BrunaCelestino"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bruna-celestino-104124196/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
