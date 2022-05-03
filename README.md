@@ -1,6 +1,10 @@
-# Hi, I'm Bruna!
+# Hey there!
 
-<p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <span style="color: purple;">{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <span style="color: orange;">javascript</b>.</p>  
+<p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <span style="color:purple;">{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <span style="color:orange;">javascript</b>.</p>  
+
+<div
+     
+<p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <span style="color:purple;">{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <span style="color:orange;">javascript</b>.</p>  
 
 <div
      
