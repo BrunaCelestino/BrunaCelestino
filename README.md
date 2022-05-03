@@ -32,7 +32,7 @@
 <div>
   
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">1. Rereferências do github stats</a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">1. Referências do github stats</a><br>
   <a href="https://github.com/iuricode/readme-template">2. Referências dos ícones de redes sociais</a><br>
   <a href="https://github.com/lilitbandeira/lilitbandeira">3. Referências da criação do README.md </a>
   <br>
