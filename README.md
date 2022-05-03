@@ -7,9 +7,10 @@
      
 <p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <b><span style="color:purple;">{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <b><span style="color:orange;">javascript</b>.</p>  
 
-     
+  
+Follow me:
 <div>
-#Follow me!     
+   
      
   <a href="https://github.com/BrunaCelestino"><img alt="github" src="https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bruna-celestino-104124196/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
