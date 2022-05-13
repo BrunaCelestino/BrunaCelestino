@@ -1,10 +1,10 @@
- # Olá!
+# <div align = center> Olá </div>
 
 <div align = "justify">
 <p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <b style='color:purple'>{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <b style='color:orange'>javascript</b>.</p>  
 </div> 
 
-# Hey there!
+# <div align = center> Hey there! </div>
 
 
 <div align = "justify">     
@@ -34,7 +34,7 @@
   
   <a href="https://github.com/BrunaCelestino">
     <img height=160  length = 50% src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 length = 50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
+    <img height=160 length = 40%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
   </a>
   
   
