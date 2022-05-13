@@ -27,19 +27,14 @@
   
 </div>
 
-<style>
-        .chart-items {
-    display:inline-block;
-    }
-    
-</style>
+
   
-<div class = "chart-items">
+<div align = "center">
   
   
   <a href="https://github.com/BrunaCelestino">
-    <img height=160  witdh = 50% src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 width = 50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
+    <img height=160  length = 50% src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
+    <img height=160 length = 50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
   </a>
   
   
