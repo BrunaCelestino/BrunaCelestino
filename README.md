@@ -33,7 +33,7 @@
   
   
   <a href="https://github.com/BrunaCelestino">
-    <img height=160  length = 50% src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
+    <img height=160  length = 60% src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
     <img height=160 length = 40%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
   </a>
   
