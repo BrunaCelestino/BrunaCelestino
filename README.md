@@ -1,10 +1,10 @@
-<div align = "center"> # Olá! </div>
+ # Olá!
 
 <div align = "center">
 <p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <b><span style="color:purple;">{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <b><span style="color:orange;">javascript</b>.</p>  
 </div> 
 
-<div align = "center"> # Hey there! </div>
+# Hey there!
 
 
 <div align = "center">     
@@ -28,7 +28,7 @@
 </div>
 
   
-<div align = "center">
+<div align = "inline-block">
   
   
   <a href="https://github.com/BrunaCelestino">
@@ -40,7 +40,7 @@
 </div>
 
 <div align ="center">
-  <img src="https://gpvc.arturio.dev/AlineAlmeida85" alt="profile views">
+  <img src="https://gpvc.arturio.dev/BrunaCelestino" alt="profile views">
 </div>
 
 
