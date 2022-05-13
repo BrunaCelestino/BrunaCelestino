@@ -29,10 +29,10 @@
 
 
   
-<div>  
+<div align = "left">  
   <a href="https://github.com/BrunaCelestino">
-    <img align = "left" height=165px src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=calm&count_private=true&includes_all_commits=true" />
-    <img align = "left"height=165px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=calm" />
+    <img  height=165px src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=calm&count_private=true&includes_all_commits=true" />
+    <img  height= 165px  width = 80px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=calm" />
   </a>
 </div>
 
