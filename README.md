@@ -11,9 +11,9 @@
 <p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <b style='color:purple'>{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <b style='color:orange'>javascript</b>.</p>  
 </div> 
   
-<div align = "center"> 
-# Follow me:
-</div> 
+
+# <div align = center> Follow me: </div>
+
 
 
 <div align = "center">
@@ -27,13 +27,19 @@
   
 </div>
 
+<style>
+        .chart-items {
+    display:inline-block;
+    }
+    
+</style>
   
-<div align = "center inline-block">
+<div class = "chart-items">
   
   
   <a href="https://github.com/BrunaCelestino">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
+    <img height=160  witdh = 50% src="https://github-readme-stats.vercel.app/api?username=BrunaCelestino&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
+    <img height=160 width = 50%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCelestino&show_icons=true&hide=html&layout=compact&theme=tokyonight" />
   </a>
   
   
