@@ -1,18 +1,26 @@
-# <div align = center> Olá </div>
+# <div align = center> Olá! </div>
 
 <div align = "justify">
-<p>Meu nome é Bruna Celestino, sou Desenvolvedora Back-end em formação, estudante do curso <b style='color:purple'>{reprograma}</b>. Atualmente trabalho como instrutora de Inglês para alunos de diferentes níveis. Sou formada em Design de Interiores, Graduanda em Pedagogia e pós-graduada em Atendimento Educacional Especializado - Educação Especial e Inclusiva. Estou em transição de carreira, focando no mercado de tecnologia, atualmente estou estudando <b style='color:orange'>javascript</b>.</p>  
+Depois de uma carreira demais de 6 anos como professora de Inglês, comecei a estudar programação e descobri uma nova paixão. 
+Atualmente atuo como desenvolvedora back-end na empresa B3, através da linguagem java. 
+Graduanda em Ciência da Computação, desenvolvo APIs rest utilizando Java ou Typescript, JavaScript e Node.js, com banco de dados MongoDB e Postgresql, criptografia através de JWT, testes com Jest, conteinerinação com Docker e versionamento de código com GIT. Além disso, desenvolvo o front-end de aplicações utilizando React. 
+Prezando pelo aprimoramento constante, faço parte do bootcamp Devª (Let's code By Ada - B3), estudando Java.
 </div> 
+
+<br>
 
 # <div align = center> Hey there! </div>
 
 
 <div align = "justify">     
-<p>My name is Bruna Celestino, I'm a Back-end Developer in training, student of the <b style='color:purple'>{reprograma}</b> course. I currently work as an English instructor for students of different levels. I have a degree in Interior Design, I’m studying Pedagogy and I have a postgraduate degree in Specialized Educational Assistance - Special and Inclusive Education. I'm in career transition, focusing on the technology market, currently I'm studying <b style='color:orange'>javascript</b>.</p>  
+After a career of over 6 years as an English teacher, I started studying programming and discovered a new passion.
+I currently work as a back-end developer at B3, using the java language.
+Graduating in Computer Science, I develop REST APIs using Java or Typescript, JavaScript and Node.js, with MongoDB and Postgresql database, encryption through JWT, tests with Jest, containerization with Docker and code versioning with GIT. Also, I develop front-end applications using React.
+Focusing on constant improvement, I am part of the Devª bootcamp (Let's code By Ada - B3), studying Java.
 </div> 
   
 
-
+<br>
 
 # <div align = center> Follow me: </div>
 
@@ -45,12 +53,5 @@
   <img src="https://gpvc.arturio.dev/BrunaCelestino" alt="profile views">
 </div>
 
-
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">1. Referências do github stats</a><br>
-  <a href="https://github.com/iuricode/readme-template">2. Referências dos ícones de redes sociais</a><br>
-  <a href="https://github.com/lilitbandeira/lilitbandeira">3. Referências da criação do README.md </a>
-  <br>
-</div>
 
 
