@@ -15,12 +15,12 @@ Além disso, também desenvolvo interfaces front-end utilizando React e TypeScri
 
 
 <div align = "justify">     
-After more than six years of working as an English teacher, I started studying programming and discovered a new passion.
-I currently work as a back-end developer at B3, using Java as my main language.
-I hold a degree in Computer Science and develop REST APIs with Java, TypeScript, JavaScript, and Node.js, integrating databases such as OracleDB, MongoDB, and PostgreSQL.
-I work with authentication and encryption using JWT, perform automated testing with JUnit and Jest, and also develop test automation using Robot Framework.
-I use Docker for containerization and Git for version control.
-In addition, I also develop front-end interfaces using React and TypeScript.
+Depois de mais de seis anos trabalhando como professora de Inglês, comecei a estudar programação e descobri uma nova paixão.
+Atualmente, atuo como desenvolvedora back-end na B3, utilizando Java como principal linguagem.
+Sou graduada em Ciência da Computação e desenvolvo APIs REST com Java, TypeScript, JavaScript e Node.js, integrando bancos de dados como OracleDB, MongoDB e PostgreSQL.
+Trabalho com autenticação e criptografia utilizando JWT, realizo testes automatizados com JUnit e Jest, e também desenvolvo automações de testes com Robot Framework.
+Utilizo Docker para conteinerização, Git para versionamento de código e trabalho com Kafka e Service Bus para comunicação assíncrona e arquiteturas orientadas a eventos.
+Além disso, também desenvolvo interfaces front-end utilizando React e TypeScript.
 </div> 
   
 
