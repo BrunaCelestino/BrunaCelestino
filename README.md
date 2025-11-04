@@ -1,10 +1,12 @@
 # <div align = center> Olá! </div>
 
 <div align = "justify">
-Depois de uma carreira demais de 6 anos como professora de Inglês, comecei a estudar programação e descobri uma nova paixão. 
-Atualmente atuo como desenvolvedora back-end na empresa B3, através da linguagem java. 
-Graduada em Ciência da Computação, desenvolvo APIs rest utilizando Java ou Typescript, JavaScript e Node.js, com banco de dados MongoDB e Postgresql, criptografia através de JWT, testes com Jest, conteinerinação com Docker e versionamento de código com GIT. Além disso, desenvolvo o front-end de aplicações utilizando React. 
-Prezando pelo aprimoramento constante, faço parte do bootcamp Devª (Let's code By Ada - B3), estudando Java.
+Depois de uma carreira de mais de 6 anos como professora de Inglês, comecei a estudar programação e descobri uma nova paixão.
+Atualmente, atuo como desenvolvedora back-end na B3, utilizando a linguagem Java.
+Sou graduada em Ciência da Computação e desenvolvo APIs REST com Java, TypeScript, JavaScript e Node.js, integrando bancos de dados como OracleDB, MongoDB e PostgreSQL.
+Trabalho com autenticação e criptografia via JWT, realizo testes automatizados com JUnit e Jest, e também desenvolvo automações de testes utilizando Robot Framework.
+Utilizo Docker para conteinerização e Git para versionamento de código.
+Além disso, também desenvolvo interfaces front-end utilizando React e TypeScript.
 </div> 
 
 <br>
@@ -13,10 +15,12 @@ Prezando pelo aprimoramento constante, faço parte do bootcamp Devª (Let's code
 
 
 <div align = "justify">     
-After a career of over 6 years as an English teacher, I started studying programming and discovered a new passion.
-I currently work as a back-end developer at B3, using the java language.
-Graduating in Computer Science, I develop REST APIs using Java or Typescript, JavaScript and Node.js, with MongoDB and Postgresql database, encryption through JWT, tests with Jest, containerization with Docker and code versioning with GIT. Also, I develop front-end applications using React.
-Focusing on constant improvement, I am part of the Devª bootcamp (Let's code By Ada - B3), studying Java.
+After more than six years of working as an English teacher, I started studying programming and discovered a new passion.
+I currently work as a back-end developer at B3, using Java as my main language.
+I hold a degree in Computer Science and develop REST APIs with Java, TypeScript, JavaScript, and Node.js, integrating databases such as OracleDB, MongoDB, and PostgreSQL.
+I work with authentication and encryption using JWT, perform automated testing with JUnit and Jest, and also develop test automation using Robot Framework.
+I use Docker for containerization and Git for version control.
+In addition, I also develop front-end interfaces using React and TypeScript.
 </div> 
   
 
