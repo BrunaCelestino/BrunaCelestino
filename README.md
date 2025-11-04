@@ -52,10 +52,3 @@ In addition, I also develop front-end interfaces using React and TypeScript.
 
 
 
-
-<div align ="center">
-  <img src="https://gpvc.arturio.dev/BrunaCelestino" alt="profile views">
-</div>
-
-
-
