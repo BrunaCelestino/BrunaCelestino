@@ -3,7 +3,7 @@
 <div align = "justify">
 Depois de uma carreira demais de 6 anos como professora de Inglês, comecei a estudar programação e descobri uma nova paixão. 
 Atualmente atuo como desenvolvedora back-end na empresa B3, através da linguagem java. 
-Graduanda em Ciência da Computação, desenvolvo APIs rest utilizando Java ou Typescript, JavaScript e Node.js, com banco de dados MongoDB e Postgresql, criptografia através de JWT, testes com Jest, conteinerinação com Docker e versionamento de código com GIT. Além disso, desenvolvo o front-end de aplicações utilizando React. 
+Graduada em Ciência da Computação, desenvolvo APIs rest utilizando Java ou Typescript, JavaScript e Node.js, com banco de dados MongoDB e Postgresql, criptografia através de JWT, testes com Jest, conteinerinação com Docker e versionamento de código com GIT. Além disso, desenvolvo o front-end de aplicações utilizando React. 
 Prezando pelo aprimoramento constante, faço parte do bootcamp Devª (Let's code By Ada - B3), estudando Java.
 </div> 
 
