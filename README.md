@@ -1,12 +1,7 @@
 # <div align = center> Olá! </div>
 
 <div align = "justify">
-Depois de uma carreira de mais de 6 anos como professora de Inglês, comecei a estudar programação e descobri uma nova paixão.
-Atualmente, atuo como desenvolvedora back-end na B3, utilizando a linguagem Java.
-Sou graduada em Ciência da Computação e desenvolvo APIs REST com Java, TypeScript, JavaScript e Node.js, integrando bancos de dados como OracleDB, MongoDB e PostgreSQL.
-Trabalho com autenticação e criptografia via JWT, realizo testes automatizados com JUnit e Jest, e também desenvolvo automações de testes utilizando Robot Framework.
-Utilizo Docker para conteinerização e Git para versionamento de código.
-Além disso, também desenvolvo interfaces front-end utilizando React e Angular.
+Depois de mais de seis anos trabalhando como professora de Inglês, comecei a estudar programação e descobri uma nova paixão. Atualmente, atuo como desenvolvedora back-end na B3, utilizando Java como principal linguagem. Sou graduada em Ciência da Computação e desenvolvo APIs REST com Java, TypeScript, JavaScript e Node.js, integrando bancos de dados como OracleDB, MongoDB e PostgreSQL. Trabalho com autenticação e criptografia utilizando JWT, realizo testes automatizados com JUnit e Jest, e também desenvolvo automações de testes com Robot Framework. Utilizo Docker para conteinerização, Git para versionamento de código e trabalho com Kafka e Service Bus para comunicação assíncrona e arquiteturas orientadas a eventos. Além disso, também desenvolvo interfaces front-end utilizando React e Angular.
 </div> 
 
 <br>
